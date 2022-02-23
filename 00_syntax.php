@@ -10,5 +10,16 @@
 <body>
 Hello World
 <!--Echo HTML tags-->
+<?php
+    echo "Hello World";
+    echo " and PHP";
+?>
+<?php
+    echo "<br>";
+    echo "<button>Click Me</button>";
+    echo "<br>";
+    echo "Hello from another tag";
+?>
+
 </body>
 </html>
